@@ -1,2 +1,2 @@
 # mybot
-test repository for training
+тестовый репозиторий для обучения
