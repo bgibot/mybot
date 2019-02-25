@@ -1,0 +1,112 @@
+    body {
+      font-family: Arial, Verdana,  sans-serif; /* Семейство шрифтов */
+      font-size: 14pt; /* Размер основного шрифта в пунктах  */
+      background: url("fon.jpg");
+      color: #21453B; /* Цвет основного текста */
+       
+    }
+    
+     .container {
+       margin:5px;
+       width: 960px; /* Ширина контейнера в пикселях  */
+       background: #000; /* Цвет заливки контейнера  */
+       padding: 5px; /* Отступ от содержимого до края контейнера внутри  */
+       margin-left:auto;     /* Отступ слева от контейнера - позволяет выровнять его по центру  */
+       margin-right:auto;   /* Отступ слева от контейнера - позволяет выровнять его по центру  */
+       }    
+    
+     .header {
+       margin:10px;
+       border:1px solid #ffffff; 
+       width: auto; /* Ширина контейнера в пикселях  */
+       height: 50px;
+       background: #FFF; /* Цвет заливки контейнера  */
+       padding: 5px; /* Отступ от содержимого до края контейнера внутри  */
+       margin-left:5px;     /* Отступ слева от контейнера - позволяет выровнять его по центру  */
+       margin-right:5px;   /* Отступ слева от контейнера - позволяет выровнять его по центру  */
+       color: #701500; /* Цвет основного текста */
+       font-family: Georgia, Times, serif; /* Семейство шрифтов */
+       font-size: 24pt; /* Размер шрифта в пунктах */
+       }
+
+     .block1 {
+       margin:5px;
+       border:1px solid #ffffff; 
+       width: 155px; /* Ширина контейнера в пикселях  */
+       height: 450px;
+       background: #FFF; /* Цвет заливки контейнера  */
+       padding: 5px; /* Отступ от содержимого до края контейнера внутри  */
+       float:left;
+       color: #701500; /* Цвет основного текста */
+       }
+      
+     .block2 {
+       margin:5px;
+       border:1px solid #ffffff; 
+       width: 555px; /* Ширина контейнера в пикселях  */
+       height: 450px;
+       background: #FFF; /* Цвет заливки контейнера  */
+       padding: 5px; /* Отступ от содержимого до края контейнера внутри  */
+       float: left;
+       
+       }
+     .block3 {
+       margin:5px;
+       border:1px solid #ffffff; 
+       width: 180px; /* Ширина контейнера в пикселях  */
+       height: 450px;
+       background: #FFF; /* Цвет заливки контейнера  */
+       padding: 5px; /* Отступ от содержимого до края контейнера внутри  */
+       float: left;
+       color: #701500;
+       } 
+             
+     .footer {
+       clear:both;
+       margin:5px;
+       border:1px solid #ffffff; 
+       width: auto; /* Ширина контейнера в пикселях  */
+       background: #FFF; /* Цвет заливки контейнера  */
+       padding: 5px; /* Отступ от содержимого до края контейнера внутри  */
+       margin-left:5px;     /* Отступ слева от контейнера - позволяет выровнять его по центру  */
+       margin-right:5px;   /* Отступ слева от контейнера - позволяет выровнять его по центру  */
+       color: #701500;
+       font-size: 11pt;
+       }
+
+    h1 {
+      text-align: left;
+      color: #701500; /* Цвет заголовка */
+      font-size: 18pt; /* Размер шрифта в пунктах */
+      font-family: Georgia, Times, serif; /* Семейство шрифтов */
+      font-weight: normal; /* Нормальное начертание текста  */
+      margin-left: 50px; /* Отступ слева в пикселах */
+      margin-right: 100px; /* Отступ справа в пикселах */   
+    }
+    
+    h3 {
+      text-align: left;
+      color: #701500; /* Цвет заголовка */
+      font-size: 14pt; /* Размер шрифта в пунктах */
+      font-family: Georgia, Times, serif; /* Семейство шрифтов */
+      font-weight: normal; /* Нормальное начертание текста  */
+      margin-left: 20px; /* Отступ слева в пикселах */
+      margin-right: 20px; /* Отступ справа в пикселах */   
+    }
+        
+    p {
+      text-align: left; /* Выравнивание по центру */
+      margin-left: 20px; /* Отступ слева в пикселах */
+      margin-right: 50px; /* Отступ справа в пикселах */
+      padding-left: 10px; /* Отступ от линии слева до текста  */
+      padding-bottom: 10px; /* Отступ от линии снизу до текста  */
+    }
+    
+     .obyava {
+      font-size: 12pt;
+      text-align: left; /* Выравнивание по центру */
+      margin-left: 10px; /* Отступ слева в пикселах */
+      margin-right: 10px; /* Отступ справа в пикселах */
+      padding-left: 10px; /* Отступ от линии слева до текста  */
+      padding-bottom: 10px; /* Отступ от линии снизу до текста  */
+    }   
